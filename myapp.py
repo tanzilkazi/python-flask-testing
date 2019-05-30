@@ -33,7 +33,7 @@ def agenda():
     return """
     <html>
     <body>
-     <h1><u>Event Agenda</u></h1>
+     <h1><u>Event Agenda - changed</u></h1>
      <h3>
      <ul>
        <li>09:00 - The wonderful world of Cloud Native
